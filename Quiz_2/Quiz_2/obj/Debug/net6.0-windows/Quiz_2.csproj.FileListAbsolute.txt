@@ -1,0 +1,17 @@
+D:\Github\Quiz_2\Quiz_2\Quiz_2\bin\Debug\net6.0-windows\Quiz_2.exe
+D:\Github\Quiz_2\Quiz_2\Quiz_2\bin\Debug\net6.0-windows\Quiz_2.deps.json
+D:\Github\Quiz_2\Quiz_2\Quiz_2\bin\Debug\net6.0-windows\Quiz_2.runtimeconfig.json
+D:\Github\Quiz_2\Quiz_2\Quiz_2\bin\Debug\net6.0-windows\Quiz_2.dll
+D:\Github\Quiz_2\Quiz_2\Quiz_2\bin\Debug\net6.0-windows\ref\Quiz_2.dll
+D:\Github\Quiz_2\Quiz_2\Quiz_2\bin\Debug\net6.0-windows\Quiz_2.pdb
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.csproj.AssemblyReference.cache
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.Form1.resources
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.csproj.GenerateResource.cache
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.AssemblyInfoInputs.cache
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.AssemblyInfo.cs
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.csproj.CoreCompileInputs.cache
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.dll
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\ref\Quiz_2.dll
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.pdb
+D:\Github\Quiz_2\Quiz_2\Quiz_2\obj\Debug\net6.0-windows\Quiz_2.genruntimeconfig.cache
